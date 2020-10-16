@@ -1,0 +1,7 @@
+<fomod>
+<Name>Elementary Smelting all-in-one (no expansions)</Name>
+<Version>0.9.2</Version>
+<Author>Matthew R. Karlsen (quixoticynic)</Author>
+<Website>http://www.nexusmods.com/skyrim/mods/54378</Website>
+<Description>Provides reverse recipes for craftable metal items (i.e. enables you to smelt the item back in to ingots). Provides the correct quantity of the most valuable ingot type (based on quantity x value). The mod depends upon PRUFEI (Protection for Recipes Using Favorite and Equipped Items) in order to prevent smelting of favorite and equipped items.</Description>
+</fomod>
