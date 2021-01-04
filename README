@@ -10,7 +10,7 @@ Important Upgrade Note:
       use are unchecked.
 
 Author:
-    Matthew R. Karlsen (quixoticynic)
+    Matthew R. Karlsen
 
 Nexus Mods files page:
     http://www.nexusmods.com/games/users/3546091/?tb=mods&pUp=1
@@ -72,7 +72,7 @@ Changes:
 
 
 Credits:
-    Created by Matthew R. Karlsen (quixoticynic)
+    Created by Matthew R. Karlsen
     This mod would have been impossible without major assistance from 'mrpwn' and 
       'IsharaMeradin' on the PRUFEI mod. These mod authors are not responsible for
       any bugs that may remain). Thanks to InfamousNate for spotting the bug fixed
@@ -80,21 +80,9 @@ Credits:
         
 Thanks:
     Thank you for downloading and trying this mod. If you have any feedback please 
-      post it on the mod's forum thread. You can contact me directly using 
-      firstname@lastname.me.uk using the firstname Matthew and the last name
-	  Karlsen.
+      post it on the mod's forum thread. You can contact me by opening a GitHub issue.
 
 License:
 
-Formally, the mod is released under the BSD 2-Clause License:
-
-Copyright (c) 2014, Matthew R. Karlsen (quixoticynic)
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+The .esp file contains data that belongs to the game's creators and is supplied under their particular license.
+The changes specific to this mod, made by the mod authors, are released under the license in the LICENSE file.
